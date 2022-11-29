@@ -14,5 +14,5 @@ Right click on a profiles, click "Export", then choose a save path.
 
 ## Installation of Logitech Gaming Software
 
-Because this is a discontinued product, I have archived the installer here in this repo under
-`binary/`.
+Because this is a discontinued product, I have archived the installer here in this repo its
+Releases.
